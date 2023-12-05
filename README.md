@@ -1,4 +1,5 @@
-
+WELCOME TO MY PAGE 👋👋👋
+My name is Son Hao, I am a student studying software engineer,I am interested in the following topics: backend and mobile developer topics
 
 
 # 💻Những Thứ Tôi Biết
