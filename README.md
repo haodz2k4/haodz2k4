@@ -1,6 +1,6 @@
 WELCOME TO MY PAGE 👋👋👋
 
-My name is Son Hao, I am a student studying software engineer,I am interested in the following topics: backend is Nodejs and goLang
+My name is Son Hao, I am a student studying software engineer,I am interested in the following topics: backend is Nodejs, goLang and .NET
 
 
 # 💻Những Thứ Tôi Biết
