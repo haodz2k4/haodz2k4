@@ -1,5 +1,5 @@
 # Hi there 👋, I'm **Hồ Sơn Hào**  
-### Passionate Frontend Developer from Vietnam 🌍
+### Passionate Backend Developer from Vietnam 🌍
 
 - 🌟 **Innovating one line of code at a time.**
 - 🔭 Currently exploring **Javascript, Typescript, GoLang**
